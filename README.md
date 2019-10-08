@@ -3,7 +3,9 @@ I am a PhD student at University College London at the [Department of Security a
 
 
 [Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ)
+
 [GitHub]( https://github.com/Felix-Soldner)
+
 [Twitter]( https://twitter.com/FelixSoldner)
 
 ## Brief CV
