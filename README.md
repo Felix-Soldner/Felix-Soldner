@@ -1,8 +1,10 @@
 # Felix Soldner
-I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/). I have a wide interest in many research areas, which lead me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I applied in deception detection projects. My current research focuses on detecting online fraud (e.g. counterfeit goods, phishing pages) and looks at possible automated solutions in supporting decision-makers to manage their workload. I am also interested in the dark web, and how it can be utilized in informing us about fraudulent behavior on the surface web (e.g. selling platforms).
+I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/). I have a wide interest in many research areas, which lead me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I applied in deception detection projects. 
+
+My current research focuses on detecting online fraud (e.g. counterfeit goods, phishing pages) and looks at possible automated solutions in supporting decision-makers to manage their workload. I am also interested in the dark web, and how it can be utilized in informing us about fraudulent behavior on the surface web (e.g. selling platforms).
 
 
-[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ)   [GitHub](https://github.com/Felix-Soldner)    [Twitter]( https://twitter.com/FelixSoldner)
+[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner)
 
 ## Brief CV
 -	2018-present: PhD student, Department of Security & Crime Science, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
