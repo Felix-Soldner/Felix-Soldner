@@ -26,7 +26,7 @@ My current research focuses on detecting online fraud (e.g. counterfeit goods, p
 
 ## Teaching Activities
 
-UCL – Department for Security and Crime Science:
+UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Preventing Crimes (18/19; 19/20) – M.Sc. Module, grading class assessments and work on online portal.
 -	Teaching Assistant: Applied Data Science (19/20) – M.Sc. Module, supervising coding tutorials (R), grading class assessments and work on online portal.
 -	Teaching Assistant: Security Technologies (19/20) – B.Sc. Module; supervising tutorials with handling security equipment and work on online portal.
