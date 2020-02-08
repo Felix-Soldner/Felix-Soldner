@@ -1,7 +1,7 @@
 # Felix Soldner
 I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/). I have a wide interest in many research areas, which lead me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I applied in deception detection projects. 
 
-My current research focuses on detecting online fraud (e.g. counterfeit goods, phishing pages) and looks at possible automated solutions in supporting decision-makers to manage their workload. I am also interested in the dark web, and how it can be utilized in informing us about fraudulent behavior on the surface web (e.g. selling platforms).
+My current research focuses on how data science methods can facilitat the detection and prevention of online fraud (e.g. counterfeit goods, phishing pages).
 
 
 [Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner)
@@ -32,8 +32,12 @@ UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Security Technologies (19/20) – B.Sc. Module; supervising tutorials with handling security equipment and work on online portal.
 -	Teaching Assistant: Advanced Crime Analysis – B.Sc. Module; supervising coding tutorials (R), grading class assessments and work on online portal.
 -	Master’s dissertation grading
+- Co-supervising Bachelor student dissertation
 
 ## Other Activities
+- Peer-reviewing for journals: 
+  [Crime Science](https://crimesciencejournal.biomedcentral.com/)
+  [Natural Language Engeneering](https://www.cambridge.org/core/journals/natural-language-engineering)
 -	Volunteer at the Neuroscience Conference ICON 2017; Amsterdam; Coordinating of visitors, technical assistant
 -	Summer School “The Sleeping Brain: From Neural Networks to Cognition”, 2017 University of Amsterdam; Lectures and practical work on Implanting new memories during short naps, Poster presentation
 -	Lab visit Edinburgh, 2017 at the “Centre for Language Evolution” and the “Human Cognitive Neuroscience department” of the University of Edinburgh
