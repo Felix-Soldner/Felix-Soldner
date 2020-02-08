@@ -20,12 +20,11 @@ My current research focuses on how data science methods can facilitat the detect
 
 
 ## Talks and Posters
--	Sentiment patterns in videos from left- and right-wing YouTube news channels. Oral presentation at NAACL 2019, Workshop NLP + CSS (June, Minneapolis, USA) and Euro CSS 2019 (September, Zürich, Switzerland)
--	Box of Lies: Multimodal Deception Detection in Dialogues. Poster presentation at NAACL 2019 (June, Minneapolis, USA)
+-	Presentation at NAACL 2019, Workshop NLP + CSS (June, Minneapolis, USA) and Euro CSS 2019 (September, Zürich, Switzerland) about "Sentiment patterns in videos from left- and right-wing YouTube news channels."
+- Poster presentation at NAACL 2019 (June, Minneapolis, USA) about "Box of Lies: Multimodal Deception Detection in Dialogues." 
 
 
 ## Teaching Activities
-
 UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Preventing Crimes (18/19; 19/20) – M.Sc. Module, grading class assessments and work on online portal.
 -	Teaching Assistant: Applied Data Science (19/20) – M.Sc. Module, supervising coding tutorials (R), grading class assessments and work on online portal.
@@ -36,7 +35,7 @@ UCL – Department of Security and Crime Science:
 
 ## Other Activities
 - Peer-reviewing for journals: 
-  [Crime Science](https://crimesciencejournal.biomedcentral.com/)
+  [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
   [Natural Language Engeneering](https://www.cambridge.org/core/journals/natural-language-engineering)
 -	Volunteer at the Neuroscience Conference ICON 2017; Amsterdam; Coordinating of visitors, technical assistant
 -	Summer School “The Sleeping Brain: From Neural Networks to Cognition”, 2017 University of Amsterdam; Lectures and practical work on Implanting new memories during short naps, Poster presentation
