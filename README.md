@@ -37,7 +37,7 @@ UCL – Department of Security and Crime Science:
 ## Other Activities
 - Peer-reviewing for journals: 
   [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
-  [Natural Language Engeneering](https://www.cambridge.org/core/journals/natural-language-engineering)
+  [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)
 -	Volunteer at the Neuroscience Conference ICON 2017; Amsterdam; Coordinating of visitors, technical assistant
 -	Summer School “The Sleeping Brain: From Neural Networks to Cognition”, 2017 University of Amsterdam; Lectures and practical work on Implanting new memories during short naps, Poster presentation
 -	Lab visit Edinburgh, 2017 at the “Centre for Language Evolution” and the “Human Cognitive Neuroscience department” of the University of Edinburgh
