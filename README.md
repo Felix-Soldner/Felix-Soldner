@@ -17,7 +17,7 @@ My current research focuses on how data science methods can facilitate the detec
 ## Publications
 
 -	Soldner, F., Perez-Rosas, V., & Mihalcea, R. (2019). Box of Lies: Multimodal Deception Detection in Dialogues. 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, 10. [Paper](https://www.aclweb.org/anthology/N19-1175/), [Data](http://web.eecs.umich.edu/~mihalcea/downloads/multimodalDialogDeception.zip)
--	Soldner, F., Ho, J. C., Makhortykh, M., van der Vegt, I., Mozes, M., & Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. 10. [Paper](https://www.aclweb.org/anthology/W19-2110/), [Data]( https://github.com/ben-aaron188/ltta_workshop), [Code](https://github.com/ben-aaron188/naive_context_sentiment)
+-	Soldner, F., Ho, J. C., Makhortykh, M., van der Vegt, I., Mozes, M., & Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. Third Workshop on Natural Language Processing and Computational Social Science, 10. [Paper](https://www.aclweb.org/anthology/W19-2110/), [Data]( https://github.com/ben-aaron188/ltta_workshop), [Code](https://github.com/ben-aaron188/naive_context_sentiment)
 
 
 ## Talks and Posters
