@@ -32,7 +32,6 @@ UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Security Technologies (19/20) – B.Sc. Module; supervising tutorials with handling security equipment and work on online portal.
 -	Teaching Assistant: Advanced Crime Analysis (18/19) – B.Sc. Module; supervising coding tutorials (R), grading class assessments and work on online portal.
 -	Master’s dissertation grading
-- Co-supervising Bachelor student dissertation
 
 ## Other Activities
 - Peer-reviewing for journals: 
