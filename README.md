@@ -34,7 +34,7 @@ UCL – Department of Security and Crime Science:
 -	Master’s dissertation grading
 
 ## Other Activities
-- Peer-reviewing for journals: 
+- Peer-reviewing: 
   [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
   [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering),
   [4th NLP+CSS Workshop at EMNLP](https://sites.google.com/site/nlpandcss/nlp-css-at-emnlp-2020)
