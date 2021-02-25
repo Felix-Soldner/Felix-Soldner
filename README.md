@@ -2,10 +2,10 @@
 
 I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I applied in deception detection projects. 
 
-My current research focuses on how data science methods can facilitate the detection and prevention of online fraud (e.g. counterfeit goods, phishing pages).
+My current research focuses on how data science methods can facilitate the detection and prevention of online fraud (e.g. counterfeit goods).
 
 
-[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner)
+[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner), [Linkedin](https://www.linkedin.com/in/felix-soldner/)
 
 ## Brief CV
 -	2018-present: PhD student, Department of Security & Crime Science, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
