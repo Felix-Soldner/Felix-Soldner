@@ -5,7 +5,7 @@ I am a PhD student at University College London at the [Department of Security a
 My current research focuses on how data science methods can facilitate the detection and prevention of online fraud (e.g. counterfeit goods).
 
 
-[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner), [Linkedin](https://www.linkedin.com/in/felix-soldner/)
+[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
 
 ## Brief CV
 -	2018-present: PhD student, Department of Security & Crime Science, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
