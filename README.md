@@ -1,14 +1,13 @@
 
 
-I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I applied in deception detection projects. 
+I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) and the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I continuously apply in my work.
 
-My current research focuses on how data science methods can facilitate the detection and prevention of online fraud (e.g. counterfeit goods).
+My current research focuses on how data science methods can facilitate the detection and prevention of fraud on online markets (eBay, Amazon, etc.)
 
-
-[Google Scholar]( https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter]( https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
 
 ## Brief CV
--	2018-present: PhD student, Department of Security & Crime Science, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
+-	2018-present: PhD student, Department of Security & Crime Science, Dawes Centre for Future Crime, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
 -	2016-2018: M.Sc. (research) degree in [Brain and Cognitive Science]( https://iis.uva.nl/en/shared/subsites/graduate-school-of-sciences/en/research-masters/brain-and-cognitive-sciences/brain-and-cognitive-sciences.html?1570374685127=), University of Amsterdam, Netherlands
 -	2018: Visiting Scholar at the [Language and Information Technologies Group]( http://lit.eecs.umich.edu/) (7 months), University of Michigan, Ann Arbor, USA; Exchange during master’s program
 -	2014-2016: B.Sc. in Biomimetics (Bionik), University of applied sciences, Germany; Change of study after 2 years
