@@ -1,6 +1,6 @@
 
 
-I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) and the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, machine learning, and natural language processing, which I continuously apply in my work.
+I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) and the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, specifically methods such as machine learning and natural language processing, which I continuously apply in my work.
 
 My current research focuses on how data science methods can facilitate the detection and prevention of fraud on online markets (eBay, Amazon, etc.)
 
@@ -33,10 +33,12 @@ UCL – Department of Security and Crime Science:
 -	Master’s dissertation grading
 
 ## Other Activities
+- Student supervisions (B.Sc. Thesis, reserach intern)
 - Peer-reviewing: 
   [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
   [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering),
   [4th NLP+CSS Workshop at EMNLP](https://sites.google.com/site/nlpandcss/nlp-css-at-emnlp-2020)
+- Mentoring (supporting first-year PhD students)
 -	Volunteer at the Neuroscience Conference ICON 2017; Amsterdam; Coordinating of visitors, technical assistant
 -	Summer School “The Sleeping Brain: From Neural Networks to Cognition”, 2017 University of Amsterdam; Lectures and practical work on Implanting new memories during short naps, Poster presentation
 -	Lab visit Edinburgh, 2017 at the “Centre for Language Evolution” and the “Human Cognitive Neuroscience department” of the University of Edinburgh
