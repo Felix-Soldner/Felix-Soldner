@@ -2,7 +2,7 @@
 
 I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) and the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, specifically methods such as machine learning and natural language processing, which I continuously apply in my work.
 
-My current research focuses on how data science methods can facilitate the detection and prevention of fraud on online markets (eBay, Amazon, etc.)
+My current research focuses on how data science methods can facilitate the detection and prevention of fraud on online markets (eBay, Amazon, etc.).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
 
