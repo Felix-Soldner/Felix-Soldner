@@ -1,12 +1,14 @@
 
 
-I am a PhD student at University College London at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) and the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime). I have a wide interest in many research areas, which led me to study Psychology, Biomimetics as well as Brain and Cognitive Sciences. Following this, I developed an interest in data science, specifically methods such as machine learning and natural language processing, which I continuously apply in my work.
+I am working as a Post-Doc at [GESIS – the Leibniz Institute for the Social Science](https://www.gesis.org/home) in Cologne in Germany, while also finishing my PhD at the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime), at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) at UCL. My PhD focused on the use of data science methods to facilitate the detection and prevention of online fraud, specifically the sales of counterfeits. At GESIS, I am working in the [department for Computational Social Science](https://www.gesis.org/institut/abteilungen/computational-social-science) within the team Data Science Methods.
 
-My current research focuses on how data science methods can facilitate the detection and prevention of fraud on online markets (eBay, Amazon, etc.).
+My research focuses on the use of data science methods, such Machine Learning (ML) and Natural Language Processing (NLP), and topics including deception (fraud) detection, dark web markets, and data biases, which impact ML performances.
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [ORCID](https://orcid.org/0000-0001-5324-3581), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
 
 ## Brief CV
+- 2021-present: Post-Doc, Department of Computational Social Science, GESIS - Leibniz Institute for the Social Science, Cologne, Germany
 -	2018-present: PhD student, Department of Security & Crime Science, Dawes Centre for Future Crime, University College London; Supervised by [Bennett Kleinberg](https://bkleinberg.net/) & [Shane Johnson]( https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/shane-johnson)
 -	2016-2018: M.Sc. (research) degree in [Brain and Cognitive Science]( https://iis.uva.nl/en/shared/subsites/graduate-school-of-sciences/en/research-masters/brain-and-cognitive-sciences/brain-and-cognitive-sciences.html?1570374685127=), University of Amsterdam, Netherlands
 -	2018: Visiting Scholar at the [Language and Information Technologies Group]( http://lit.eecs.umich.edu/) (7 months), University of Michigan, Ann Arbor, USA; Exchange during master’s program
@@ -19,9 +21,10 @@ My current research focuses on how data science methods can facilitate the detec
 -	Soldner, F., Ho, J. C., Makhortykh, M., van der Vegt, I., Mozes, M., & Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. Third Workshop on Natural Language Processing and Computational Social Science, 10. [Paper](https://www.aclweb.org/anthology/W19-2110/), [Data]( https://github.com/ben-aaron188/ltta_workshop), [Code](https://github.com/ben-aaron188/naive_context_sentiment)
 
 
-## Talks and Posters
+## Talks, Posters and Guestlectures
 -	Presentation at NAACL 2019, Workshop NLP + CSS (June, Minneapolis, USA) and Euro CSS 2019 (September, Zürich, Switzerland) about "Sentiment patterns in videos from left- and right-wing YouTube news channels."
-- Poster presentation at NAACL 2019 (June, Minneapolis, USA) about "Box of Lies: Multimodal Deception Detection in Dialogues." 
+- Poster presentation at NAACL 2019 (June, Minneapolis, USA) about "Box of Lies: Multimodal Deception Detection in Dialogues."
+- Invited guest lecture in "Applied Data Science" (UCL) about confounds in data used for automated fake review detection.
 
 
 ## Teaching Activities
