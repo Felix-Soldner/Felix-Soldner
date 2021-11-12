@@ -22,9 +22,11 @@ My research focuses on the use of data science methods, such Machine Learning (M
 
 
 ## Talks, Posters and Guestlectures
+- 2021 - Invited guest lecture about the sale of counterfeits on darknet markets (University of Amsterdam).
+- 2021 - Invited guest lecture about confounds in data, used for automated fake review detection (UCL).
 -	Presentation at NAACL 2019, Workshop NLP + CSS (June, Minneapolis, USA) and Euro CSS 2019 (September, Zürich, Switzerland) about "Sentiment patterns in videos from left- and right-wing YouTube news channels."
 - Poster presentation at NAACL 2019 (June, Minneapolis, USA) about "Box of Lies: Multimodal Deception Detection in Dialogues."
-- Invited guest lecture in "Applied Data Science" (UCL) about confounds in data used for automated fake review detection.
+
 
 
 ## Teaching Activities
