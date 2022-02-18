@@ -16,7 +16,7 @@ My research focuses on the use of data science methods, such Machine Learning (M
 -	2011-2014: B.Sc. degree in Psychology, University of Groningen, Netherlands
 
 ## Publications
-
+- Soldner, F., Tanczer, L. M., Hammocks, D., Lopez-Neira, I., & Johnson, S. D. (2021). Using Machine Learning Methods to Study Technology-Facilitated Abuse: Evidence from the Analysis of UK Crimestoppers’ Text Data. In The Palgrave Handbook of Gendered Violence and Technology (pp. 481-503). Palgrave Macmillan, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-83734-1_24), [trained ML model](https://osf.io/fea5j/?%20view_only=35786879fdee4d21bc1da71cba3661d1)
 -	Soldner, F., Perez-Rosas, V., & Mihalcea, R. (2019). Box of Lies: Multimodal Deception Detection in Dialogues. 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, 10. [Paper](https://www.aclweb.org/anthology/N19-1175/), [Data](http://web.eecs.umich.edu/~mihalcea/downloads/multimodalDialogDeception.zip)
 -	Soldner, F., Ho, J. C., Makhortykh, M., van der Vegt, I., Mozes, M., & Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. Third Workshop on Natural Language Processing and Computational Social Science, 10. [Paper](https://www.aclweb.org/anthology/W19-2110/), [Data]( https://github.com/ben-aaron188/ltta_workshop), [Code](https://github.com/ben-aaron188/naive_context_sentiment)
 
