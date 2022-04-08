@@ -15,7 +15,8 @@ My research focuses on the use of data science methods, such Machine Learning (M
 -	2014-2016: B.Sc. in Biomimetics (Bionik), University of applied sciences, Germany; Change of study after 2 years
 -	2011-2014: B.Sc. degree in Psychology, University of Groningen, Netherlands
 
-## Some publications (full list see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ))
+## Some publications 
+(full list see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ))
 - Soldner, F., Kleinberg, B., & Johnson, S. (2022). Trends in online consumer fraud:: A data science perspective. In A Fresh Look at Fraud (pp. 167-191). Routledge. [Publication](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003017189-9/trends-online-consumer-fraud-felix-soldner-bennett-kleinberg-shane-johnson)
 - Soldner, F., Tanczer, L. M., Hammocks, D., Lopez-Neira, I., & Johnson, S. D. (2021). Using Machine Learning Methods to Study Technology-Facilitated Abuse: Evidence from the Analysis of UK Crimestoppers’ Text Data. In The Palgrave Handbook of Gendered Violence and Technology (pp. 481-503). Palgrave Macmillan, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-83734-1_24), [trained ML model](https://osf.io/fea5j/?%20view_only=35786879fdee4d21bc1da71cba3661d1)
 -	Soldner, F., Perez-Rosas, V., & Mihalcea, R. (2019). Box of Lies: Multimodal Deception Detection in Dialogues. 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, 10. [Paper](https://www.aclweb.org/anthology/N19-1175/), [Data](http://web.eecs.umich.edu/~mihalcea/downloads/multimodalDialogDeception.zip)
