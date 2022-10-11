@@ -1,11 +1,11 @@
 
 
-I am working as a Post-Doc at [GESIS – the Leibniz Institute for the Social Science](https://www.gesis.org/home) in Cologne in Germany, while also finishing my PhD at the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime), at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) at UCL. My PhD focuses on the use of data science methods to facilitate the detection and prevention of online fraud, specifically the sales of counterfeits. At GESIS, I am working in the [department for Computational Social Science](https://www.gesis.org/institut/abteilungen/computational-social-science) within the team Data Science Methods.
+I am working as a Post-Doc at [GESIS – the Leibniz Institute for the Social Science](https://www.gesis.org/home) in Cologne in Germany, while also finishing my PhD at the [Dawes Centre for Future Crime](https://www.ucl.ac.uk/jill-dando-institute/research/dawes-centre-future-crime), at the [Department of Security and Crime Science](https://www.ucl.ac.uk/security-crime-science/) at UCL. My PhD focuses on using data science methods to facilitate our understanding of online fraud and how we might prevent or detect it. At GESIS, I work in the [department for Computational Social Science](https://www.gesis.org/institut/abteilungen/computational-social-science) in the team Digital Society Observatory.
 
-My research focuses on the use of data science methods, such Machine Learning (ML) and Natural Language Processing (NLP), and topics including deception (fraud) detection, dark web markets, and data biases, which impact ML performances.
+My methodological interests include data science methods, such as Machine Learning (ML) and Natural Language Processing (NLP). Topics I am currently interested in are deception or fraud detection (e.g., counterfeits), dark web markets, and biases impacting ML performances.
 
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [ORCID](https://orcid.org/0000-0001-5324-3581), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [ORCID](https://orcid.org/0000-0001-5324-3581), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/), [GESIS Profile](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Felix.Soldner)
 
 ## Brief CV
 - 2021-present: Post-Doc, Department of Computational Social Science, GESIS - Leibniz Institute for the Social Science, Cologne, Germany
@@ -24,6 +24,7 @@ My research focuses on the use of data science methods, such Machine Learning (M
 
 
 ## Talks, Posters and Guestlectures
+- 2022 - Presentation at [Fifth Annual Cybercrime Conference](https://www.cambridgecybercrime.uk/conference2022.html) at the Cambridge Cybercrime Centre: "From the dark to the surface web: Scouting eBay for counterfeits"
 - 2021 - Presentation at [IC2S2-2021](https://ic2s2-2021.ethz.ch/): "Data confounds lead to performance overestimations in fake review detections"
 - 2021 - Invited guest lecture about the sale of counterfeits on darknet markets (University of Amsterdam).
 - 2021 - Invited guest lecture about confounds in data, used for automated fake review detection (UCL).
@@ -31,8 +32,10 @@ My research focuses on the use of data science methods, such Machine Learning (M
 - Poster presentation at NAACL 2019 (June, Minneapolis, USA) about "Box of Lies: Multimodal Deception Detection in Dialogues."
 
 
-
 ## Teaching Activities
+GESIS:
+- Seminar co-lead: Automated Web Data Collection with Python (Fall Seminar 2022, 5 days). GESIS - Leibniz-Institut für Sozialwissenschaften, Mannheim. 
+
 UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Preventing Crimes (18/19; 19/20) – M.Sc. Module, grading class assessments and work on online portal.
 -	Teaching Assistant: Applied Data Science (19/20; 20/21) – M.Sc. Module, supervising coding tutorials (R), grading class assessments and work on online portal.
@@ -42,7 +45,8 @@ UCL – Department of Security and Crime Science:
 
 ## Other Activities
 - Student supervisions (B.Sc. Thesis, reserach intern)
-- Peer-reviewing: 
+- Peer-reviewing:
+  [EMNLP 2022](https://2022.emnlp.org/),
   [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
   [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering),
   [4th NLP+CSS Workshop at EMNLP](https://sites.google.com/site/nlpandcss/nlp-css-at-emnlp-2020)
