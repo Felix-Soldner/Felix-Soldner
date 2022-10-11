@@ -34,7 +34,7 @@ My methodological interests include data science methods, such as Machine Learni
 
 ## Teaching Activities
 GESIS:
-- Seminar co-lead: Automated Web Data Collection with Python (Fall Seminar 2022, 5 days). GESIS - Leibniz-Institut für Sozialwissenschaften, Mannheim. 
+- Seminar co-lead: Automated Web Data Collection with Python (Fall Seminar 2022, 5 days). GESIS - Leibniz Institute for the Social Science, Mannheim. 
 
 UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Preventing Crimes (18/19; 19/20) – M.Sc. Module, grading class assessments and work on online portal.
