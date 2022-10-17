@@ -44,7 +44,7 @@ UCL – Department of Security and Crime Science:
 -	Master’s dissertation grading
 
 ## Other Activities
-- Student supervisions (B.Sc. Thesis, reserach intern)
+- Student supervisions (B.Sc. Thesis, research intern)
 - Peer-reviewing:
   [EMNLP 2022](https://2022.emnlp.org/),
   [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
