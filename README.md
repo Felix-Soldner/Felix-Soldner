@@ -17,7 +17,8 @@ My methodological interests include data science methods, such as Machine Learni
 
 ## Some publications 
 (full list see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ))
-- Soldner, F., Kleinberg, B., & Johnson, S. D. (2022). Confounds and overestimations in fake review detection: Experimentally controlling for product-ownership and data-origin. Plos one, 17(12). [Paper](https://doi.org/10.1371/journal.pone.0277869)
+- Soldner, F., Kleinberg, B., & Johnson, S. D. (2023). Counterfeits on dark markets: a measurement between Jan-2014 and Sep-2015. Crime Science, 12(1), 1-19. [Paper](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-023-00195-2), [Data/Code](https://osf.io/32au4/)
+- Soldner, F., Kleinberg, B., & Johnson, S. D. (2022). Confounds and overestimations in fake review detection: Experimentally controlling for product-ownership and data-origin. Plos one, 17(12). [Paper](https://doi.org/10.1371/journal.pone.0277869), [Data](https://osf.io/29euc/)
 - Soldner, F., Kleinberg, B., & Johnson, S. (2022). Trends in online consumer fraud:: A data science perspective. In A Fresh Look at Fraud (pp. 167-191). Routledge. [Publication](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003017189-9/trends-online-consumer-fraud-felix-soldner-bennett-kleinberg-shane-johnson)
 - Soldner, F., Tanczer, L. M., Hammocks, D., Lopez-Neira, I., & Johnson, S. D. (2021). Using Machine Learning Methods to Study Technology-Facilitated Abuse: Evidence from the Analysis of UK Crimestoppers’ Text Data. In The Palgrave Handbook of Gendered Violence and Technology (pp. 481-503). Palgrave Macmillan, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-83734-1_24), [trained ML model](https://osf.io/fea5j/?%20view_only=35786879fdee4d21bc1da71cba3661d1)
 -	Soldner, F., Perez-Rosas, V., & Mihalcea, R. (2019). Box of Lies: Multimodal Deception Detection in Dialogues. 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, 10. [Paper](https://www.aclweb.org/anthology/N19-1175/), [Data](http://web.eecs.umich.edu/~mihalcea/downloads/multimodalDialogDeception.zip)
@@ -35,7 +36,8 @@ My methodological interests include data science methods, such as Machine Learni
 
 ## Teaching Activities
 GESIS:
-- Seminar co-lead: Automated Web Data Collection with Python (Fall Seminar 2022, 5 days). GESIS - Leibniz Institute for the Social Science, Mannheim. 
+- Seminar co-lead (2022, 2023): Automated Web Data Collection with Python (Fall Seminar, 5 days). GESIS - Leibniz Institute for the Social Science, Mannheim.
+- Workshop co-lead (2023): Collecting data with APIs: Wikipedia as an example (1 Day). University of Giessen
 
 UCL – Department of Security and Crime Science:
 -	Teaching Assistant: Preventing Crimes (18/19; 19/20) – M.Sc. Module, grading class assessments and work on online portal.
@@ -45,12 +47,13 @@ UCL – Department of Security and Crime Science:
 -	Master’s dissertation grading
 
 ## Other Activities
-- Student supervisions (B.Sc. Thesis, research intern)
+- Student supervisions (B.Sc. / M.Sc. Thesis, research intern)
 - Peer-reviewing:
-  [EMNLP 2022](https://2022.emnlp.org/),
-  [Crime Science](https://crimesciencejournal.biomedcentral.com/), 
+  [Crime Science](https://crimesciencejournal.biomedcentral.com/),
+  [PeerJ Computer Science](https://peerj.com/computer-science/),
   [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering),
-  [4th NLP+CSS Workshop at EMNLP](https://sites.google.com/site/nlpandcss/nlp-css-at-emnlp-2020)
+  [EMNLP 2022](https://2022.emnlp.org/),
+  [4th NLP+CSS Workshop at EMNLP](https://sites.google.com/site/nlpandcss/nlp-css-at-emnlp-2020),
 - Mentoring (supporting first-year PhD students)
 -	Volunteer at the Neuroscience Conference ICON 2017; Amsterdam; Coordinating of visitors, technical assistant
 -	Summer School “The Sleeping Brain: From Neural Networks to Cognition”, 2017 University of Amsterdam; Lectures and practical work on Implanting new memories during short naps, Poster presentation
