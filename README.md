@@ -15,7 +15,7 @@ I am interested in applying data science methods, such as Machine Learning (ML) 
 
 ## Publications / Papers 
 (full list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ))
-- Soldner, F., Plum, F., Kleinberg, B., Johnson, S. D., From cryptomarkets to the surface web: Scouting eBay for counterfeits [paper](arXiv preprint arXiv:2406.05021)
+- Soldner, F., Plum, F., Kleinberg, B., Johnson, S. D., From cryptomarkets to the surface web: Scouting eBay for counterfeits [paper](https://arxiv.org/pdf/2406.05021)
 - Soldner, F. (2024). Overview of Approaches for Collecting Data from Online Platforms. GESIS, 8 [paper](https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guides/08_Soldner_Overview_Collecting_Platform_Data.pdf)
 - Soldner, F. (2023). The Dark Web: A Brief Introduction. easy_social_sciences, 18-27 [paper](https://www.ssoar.info/ssoar/handle/document/90697)
 - Soldner, F., Kleinberg, B., & Johnson, S. D. (2023). Counterfeits on dark markets: a measurement between Jan-2014 and Sep-2015. Crime Science, 12(1), 1-19. [Paper](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-023-00195-2), [Data/Code](https://osf.io/32au4/)
