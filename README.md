@@ -3,7 +3,7 @@ I am working as a Post-Doc at [GESIS – the Leibniz Institute for the Social Sc
 
 I am interested in applying data science methods, such as Machine Learning (ML) and Natural Language Processing (NLP), to research subjects, such as deception detection, fraud prevention, dark web markets, and data biases impacting ML performances.
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [ORCID](https://orcid.org/0000-0001-5324-3581), [GitHub](https://github.com/Felix-Soldner), [Twitter](https://twitter.com/FelixSoldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/), [GESIS Profile](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Felix.Soldner)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fAMVIXYAAAAJ), [ORCID](https://orcid.org/0000-0001-5324-3581), [GitHub](https://github.com/Felix-Soldner), [LinkedIn](https://www.linkedin.com/in/felix-soldner/), [GESIS Profile](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Felix.Soldner)
 
 ## Brief CV
 - 2021-present: Post-Doc, Department of Computational Social Science, GESIS - Leibniz Institute for the Social Science, Cologne, Germany
